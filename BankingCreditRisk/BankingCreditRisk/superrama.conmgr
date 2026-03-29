@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="superrama"
+  DTS:DTSID="{2258770E-CDE0-4718-A938-AA8D551B4D3D}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=superrama;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-BankingCreditRisk-{2258770E-CDE0-4718-A938-AA8D551B4D3D}superrama;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
